@@ -5,7 +5,7 @@
 This is a repository that stores the tools and instructions to convert an x-ray microtomography scan of an insect head/eye to an OCES-compliant glTF file.
 This markdown file outlines the process taken to produce the OCES/glTF eye file used in the paper [PAPER NAME HERE](PAPER LINK HERE), and should serve as a guide to recreating the work with other x-ray microtomographic data.
 
-The majority of large files are stored within [ORDA](NEEDS LINK). Below is a table outlining their purposes:
+The majority of large files are stored within [ORDA](https://orda.shef.ac.uk/articles/dataset/Dataset_Reconstructing_the_visual_histories_of_desert_ants/32860832) under the "Eye Mapping and Modelling" folder. Below is a table outlining their purposes:
 
 | Subfolder | Filename | Description |
 |-----------|----------|-------------|
